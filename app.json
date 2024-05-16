@@ -8,17 +8,17 @@
   "stack": "container",
   "env": {
     "DATABASE_URL": {
-      "description": "your mongodb database url",
+      "description": "CLJnaXXgr2keDYA4kYt8l0UruvZxp5VbPiBqMukcSfoFkcFxpf429lFDJ8VHMTOy",
       "required": false,
       "value": ""
     },
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "GuruBot~rzU5zeH4",
       "required": true,
       "value": ""
     },
     "MODE": {
-      "description": "mode public or private",
+      "description": "public",
       "required": true,
       "value": "public"
     },
